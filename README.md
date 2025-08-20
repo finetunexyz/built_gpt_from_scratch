@@ -63,5 +63,3 @@ This project **distills Transformers into minimal, readable code**, making it ea
 
 ---
 
-### 📝 License
-MIT License
